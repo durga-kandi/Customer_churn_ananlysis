@@ -1,41 +1,31 @@
 # 📊 Customer Churn & Retention Analysis
 
-An interactive Power BI report designed to analyze customer churn behavior and identify the primary factors influencing customer attrition and retention. The dashboard focuses on churn trends, contract behavior, tenure dynamics, and payment risk indicators.
+An interactive Power BI dashboard built to analyze customer churn behavior and identify the primary factors influencing customer attrition and retention. The report highlights churn patterns, contract dynamics, tenure trends, and payment-related risk signals.
 
 ---
 
-## 🧭 Report Structure
+## 🧭 Report Pages
 
-### **Customer Churn Overview**
-High-level summary of churn metrics, customer distribution, and overall churn patterns.
+### Customer Churn Overview
+High-level summary of churn metrics, customer distribution, and overall trends.
 
-![Customer Churn Overview](Customer Churn Overview.PNG)
-
+![Customer Churn Overview](Customer_Churn_Overview.PNG)
 
 ---
 
-### **Churn Drivers & Patterns**
-Detailed exploration of churn contributors including contract type, tenure, and payment methods.
+### Churn Drivers & Patterns
+Detailed analysis of key churn contributors including contract type, tenure, and payment method.
 
-![Churn Drivers & Patterns](Churn Drivers & Patterns.PNG)
-
+![Churn Drivers & Patterns](Churn_Drivers_Patterns.PNG)
 
 ---
 
 ## 🔎 Key Findings
 
-- Highest churn observed among Month-to-Month customers  
-- Long-term contracts demonstrate stronger retention behavior  
-- Electronic Check customers exhibit higher churn risk  
-- Churn concentrated within early customer tenure  
-
----
-
-## 🎯 Business Implications
-
-- Contract structure strongly influences customer stability  
-- Payment behavior can serve as a churn risk signal  
-- Early lifecycle retention strategies are critical  
+- Churn is highest among Month-to-Month customers  
+- Long-term contracts show stronger retention behavior  
+- Electronic Check customers present elevated churn risk  
+- Churn is concentrated within early tenure customers  
 
 ---
 
@@ -44,7 +34,6 @@ Detailed exploration of churn contributors including contract type, tenure, and 
 - Power BI  
 - DAX  
 - Data Modeling  
-- Data Analysis  
 - Data Visualization  
 - KPI Design  
 - Business Insights  
@@ -53,10 +42,8 @@ Detailed exploration of churn contributors including contract type, tenure, and 
 
 ## 🔗 Live Dashboard
 
-Access the interactive Power BI report:
-
-👉 [View Report on Power BI Service](https://app.powerbi.com/groups/me/reports/fa9eb86d-a748-45ac-9d00-dcc8071e86d7/ReportSection?experience=power-bi)
+👉 [View Report on Power BI Service](PASTE_YOUR_POWER_BI_LINK_HERE)
 
 ---
 
-⭐ *This project is part of a practical analytics portfolio emphasizing business-driven insights and decision-focused dashboards.*
+⭐ This project focuses on business-driven analytics and decision-oriented dashboard design.
