@@ -9,7 +9,7 @@ An interactive Power BI report designed to analyze customer churn behavior and i
 ### **Customer Churn Overview**
 High-level summary of churn metrics, customer distribution, and overall churn patterns.
 
-![Customer Churn Overview](./images/Customer_Churn_Overview.PNG)
+![Customer Churn Overview](Customer Churn Overview.PNG)
 
 
 ---
@@ -17,7 +17,7 @@ High-level summary of churn metrics, customer distribution, and overall churn pa
 ### **Churn Drivers & Patterns**
 Detailed exploration of churn contributors including contract type, tenure, and payment methods.
 
-![Churn Drivers & Patterns](./images/Churn Drivers & Patterns.PNG)
+![Churn Drivers & Patterns](Churn Drivers & Patterns.PNG)
 
 
 ---
