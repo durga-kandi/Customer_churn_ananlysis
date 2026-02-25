@@ -42,7 +42,7 @@ Detailed analysis of key churn contributors including contract type, tenure, and
 
 ## 🔗 Live Dashboard
 
-👉 [View Report on Power BI Service](https://github.com/durga-kandi/Customer_churn_ananlysis/blob/main/Churn%20Drivers%20%26%20Patterns.PNG)
+👉 [View Report on Power BI Service](https://app.powerbi.com/groups/me/reports/fa9eb86d-a748-45ac-9d00-dcc8071e86d7/ReportSectionf8527b15bffee7e99a64?experience=power-bi)
 
 ---
 
