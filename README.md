@@ -46,4 +46,3 @@ Detailed analysis of key churn contributors including contract type, tenure, and
 
 ---
 
-⭐ This project focuses on business-driven analytics and decision-oriented dashboard design.
